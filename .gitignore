@@ -1,0 +1,18 @@
+# Ignore ROS2 build files
+build/
+install/
+log/
+devel/
+
+# Ignore all cloned packages
+franka_description/
+franka_ros2/
+IFRA_LinkAttacher/
+libfranka/
+Universal_Robots_ROS2_Description/
+Universal_Robots_ROS2_Gazebo_Simulation/
+
+# OS / IDE files
+.vscode/
+*.swp
+*.swo
